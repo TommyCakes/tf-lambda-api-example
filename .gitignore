@@ -1,0 +1,7 @@
+.terraform/
+.vscode
+*.DS_Store
+*.pem
+*.pgp
+*.zip
+terraform.tfstate*%
